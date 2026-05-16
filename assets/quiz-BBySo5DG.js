@@ -33,7 +33,9 @@ import{m}from"./chrome-wK2Qf8XE.js";import{d as f,e as x,s as y}from"./repositor
           align-items: center;
           gap: 14px;
           padding: 16px 18px;
-          background: var(--bg-elevated, #fff);
+          background: var(--c-bg-muted, #f1efe9);
+          color: var(--c-fg, inherit);
+          border: 1.5px solid var(--c-border, rgba(0,0,0,0.08));
           color: inherit;
           border: 1.5px solid rgba(0,0,0,0.08);
           border-radius: 16px;
