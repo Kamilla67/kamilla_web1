@@ -15,7 +15,7 @@ import{m}from"./chrome-wK2Qf8XE.js";import{d as f,e as x,s as y}from"./repositor
         }
         .header p {
           margin: 8px 0 0;
-          color: rgba(0,0,0,0.55);
+          color: rgba(255,255,255,0.7);
           font-size: 0.95rem;
           max-width: 60ch;
         }
@@ -36,7 +36,7 @@ import{m}from"./chrome-wK2Qf8XE.js";import{d as f,e as x,s as y}from"./repositor
           background: var(--c-bg-muted, #f1efe9);
           color: var(--c-fg, inherit);
           border: 1.5px solid var(--c-border, rgba(0,0,0,0.08));
-          color: inherit;
+          color: #f1ede2 !important;
           border: 1.5px solid rgba(0,0,0,0.08);
           border-radius: 16px;
           font: inherit;
@@ -70,12 +70,13 @@ import{m}from"./chrome-wK2Qf8XE.js";import{d as f,e as x,s as y}from"./repositor
           box-shadow: inset 0 0 0 1px rgba(0,0,0,0.08);
         }
         .label {
-          flex: 1;
-          font-size: 0.95rem;
-          font-weight: 500;
-          line-height: 1.35;
-          text-wrap: pretty;
-        }
+  flex: 1;
+  font-size: 0.95rem;
+  font-weight: 500;
+  line-height: 1.35;
+  text-wrap: pretty;
+  color: #f1ede2 !important;
+}
         .check {
           flex: 0 0 auto;
           width: 22px;
