@@ -116,7 +116,7 @@ import{m as B}from"./chrome-wK2Qf8XE.js";import{g as $,a as k,b as M,c as _,t as
       <div class="result-hero__bg" aria-hidden="true"></div>
       <div class="result-hero__content">
         <span class="eyebrow">Ваш цветотип</span>
-        <h1 class="result-hero__title">${t.title,color:#3a2412!important;}</h1>
+        <h1 class="result-hero__title">${t.title}</h1>
         <p class="result-hero__subtitle">${t.subtitle}</p>
         <p class="result-hero__lede">${t.tagline}.</p>
         <div class="result-hero__meta">
